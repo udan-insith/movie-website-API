@@ -1,3 +1,4 @@
+import "./css/App.css";
 import Favourites from "./pages/Favourites.jsx";
 import NavBar from "./components/NavBar.jsx";
 import Home from "./pages/Home.jsx";
