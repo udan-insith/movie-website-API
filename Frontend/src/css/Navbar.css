@@ -1,14 +1,10 @@
 .navbar {
-  width: 100%;
-  position: fixed;
   background-color: #000000;
   padding: 0.7rem 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-
-  z-index: 20;
 }
 
 .navbar-brand {
